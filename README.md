@@ -28,9 +28,11 @@ Il souhaite voir quels sont les traitements et analyses que vous avez réalisés
 
 <br>
 
-## Notebook Jupyter
-<a href="" target="_blank" title="Notebook.ipynb">Notebook.ipynb</a>
+## Notebooks Jupyter
+<a href="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/Bertrand_St%C3%A9phane_1_notebook_EDA_092022.ipynb" target="_blank" title="Notebook EDA.ipynb">Notebook 1 - EDA.ipynb</a>   
+<a href="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/Bertrand_St%C3%A9phane_2_notebook_Mod%C3%A9lisation_092022.ipynb" target="_blank" title="Notebook Modélisation.ipynb">Notebook 2 - Modélisation.ipynb</a>   
+<a href="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/Bertrand_St%C3%A9phane_3_notebook_Script%20du%20mod%C3%A8le_092022.ipynb" target="_blank" title="Notebook Script.ipynb">Notebook 3 - Script du modèle.ipynb</a>
 
 ## Support de présentation du projet
-<a href="" target="_blank" title="Présentation.pdf">Présentation.pdf</a>
+<a href="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/Bertrand_St%C3%A9phane_4_Pr%C3%A9sentation_092022.pdf" target="_blank" title="Présentation.pdf">Présentation.pdf</a>
 
