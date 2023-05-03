@@ -14,6 +14,7 @@
 <img src="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/img logos/pandas.jpg" title="Pandas"  alt="Pandas" height="50" fill="white"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/img logos/numpy.png" title="Numpy"  alt="Numpy" height="50"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/img logos/scikitlearn.png" title="ScikitLearn"  alt="ScikitLearn" height="50"/>&nbsp;
+<img src="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/img%20logos/statsmodels_Python.webp" title="StatsModels"  alt="StatsModels" height="50"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/img logos/scipy-logo.jpg" title="Scipy"  alt="Scipy" height="50"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/img logos/matplotlib.jpg" title="Matplotlib"  alt="Matplotlib" height="50"/>
 <img src="https://github.com/StephaneBertrand34/Python_-_Automatiser_la_detection_de_faux_billets/blob/main/img logos/Seaborn.jpg" title="Seaborn"  alt="Seaborn" height="50"/>&nbsp;
