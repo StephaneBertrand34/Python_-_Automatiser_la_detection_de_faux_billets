@@ -1,5 +1,6 @@
 # Automatiser la détection de faux billets
----
+
+<br>
 
 ## Compétences acquises à l'issue du projet
 * Réaliser une analyse prédictive
